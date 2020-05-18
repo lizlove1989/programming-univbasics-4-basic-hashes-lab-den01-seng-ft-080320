@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  hash_new = {:day, "Tuesday"}
+  hash_new = {:day => "Tuesday"}
 end
 
 def pioneer
